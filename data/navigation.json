@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Qui sommes nous?",
+    "dd": false,
+    "icon": "mdi-arrow-right",
+    "to": "/"
+  },
+  {
+    "id": 2,
+    "title": "Activités",
+    "dd": false,
+    "icon": "mdi-arrow-right",
+    "to": "/activites/"
+  },
+  {
+    "id": 3,
+    "title": "Contact",
+    "dd": false,
+    "icon": "mdi-arrow-right",
+    "to": "/contact/"
+  }
+]
